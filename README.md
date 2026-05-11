@@ -1,9 +1,9 @@
 # Hi there! 👋
 ## My name is Diego
 
-I am a Physics and engineering student focused on computational astrophysics, scientific computing, and technical systems development.
+I am a physics and engineering student focused on computational astrophysics, scientific computing, and technical systems development.
 
-I am Currently working on numerical simulations and data analysis pipelines related to compact stars and exotic matter models at the Catholic Institute of Technology in Italy.
+I am currently working on numerical simulations and data analysis pipelines related to compact stars and exotic matter models at the Catholic Institute of Technology in Italy.
 
 ---
 
@@ -30,7 +30,6 @@ I am Currently working on numerical simulations and data analysis pipelines rela
 - Fortran
 - Bash
 - SQL
-- Java (familiarity)
 
 ### Scientific Computing
 - NumPy
