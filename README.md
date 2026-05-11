@@ -116,7 +116,7 @@ Great Books curriculum emphasizing:
 ## Contact
 
 - Email: salcidodiego@icloud.com
-- LinkedIn: https://www.linkedin.com/in/diego-salcido-272253323 
+- LinkedIn: https://www.linkedin.com/in/salcidodiegoe 
 <!--
 **dsalcie/dsalcie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
