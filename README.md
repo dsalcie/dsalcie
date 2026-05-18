@@ -76,11 +76,11 @@ Great Books curriculum emphasizing:
 ### Catholic Institute of Technology *(May 2025 – Present)*
 
 - Support computational research involving neutron star structure, universal relations, and exotic matter models
-- Develop and execute numerical simulations using Python and Fortran in Unix/Linux environments
+- Develop and execute numerical simulations using Fortran in Unix/Linux environments
 - Use Bash and command-line tools to automate batch simulation workflows and organize structured datasets
 - Build reproducible data processing pipelines for simulation analysis and validation
 - Perform parameter sweeps and quantitative model comparisons
-- Process and analyze large-scale scientific datasets using Python, pandas, NumPy, and SQL
+- Process and analyze large-scale scientific datasets using Python and NumPy
 - Generate publication-quality visualizations and analytical reports using Matplotlib
 - Maintain organized technical documentation and reproducible research workflows
 - Validate simulation outputs and support long-term project continuity across collaborative research environments
@@ -104,8 +104,7 @@ Great Books curriculum emphasizing:
 - Supported instruction in Python-based scientific computing and data analysis
 - Assisted students with debugging, workflow development, and computational problem-solving
 - Guided students in modeling astrophysical systems and processing structured datasets
-- Supported Linux/Unix-based development workflows and command-line tooling
-
+ 
 ---
 
 # Technical Skills
@@ -135,6 +134,7 @@ Great Books curriculum emphasizing:
 - Bash scripting
 - Command-line tools
 - Git
+- Github
 - macOS
 
 ## Research & Engineering
@@ -201,17 +201,3 @@ Great Books curriculum emphasizing:
 
 - Email: salcidodiego@icloud.com
 - LinkedIn: www.linkedin.com/in/salcidodiegoe
-<!--
-**dsalcie/dsalcie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
